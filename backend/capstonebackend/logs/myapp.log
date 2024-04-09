@@ -1,0 +1,48 @@
+2024-03-14T01:56:30.960-04:00  INFO 30420 --- [main] c.e.c.CapstonebackendApplicationTests    : Starting CapstonebackendApplicationTests using Java 17.0.9 with PID 30420 (started by Ali in E:\d424-software-engineering-capstone\backend\capstonebackend)
+2024-03-14T01:56:30.964-04:00  INFO 30420 --- [main] c.e.c.CapstonebackendApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-03-14T01:56:31.593-04:00  INFO 30420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2024-03-14T01:56:31.594-04:00  INFO 30420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2024-03-14T01:56:31.637-04:00  INFO 30420 --- [main] .RepositoryConfigurationExtensionSupport : Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.example.capstonebackend.repository.CarRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2024-03-14T01:56:31.639-04:00  INFO 30420 --- [main] .RepositoryConfigurationExtensionSupport : Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.example.capstonebackend.repository.DealershipRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2024-03-14T01:56:31.639-04:00  INFO 30420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 40 ms. Found 0 JDBC repository interfaces.
+2024-03-14T01:56:31.650-04:00  INFO 30420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2024-03-14T01:56:31.653-04:00  INFO 30420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-03-14T01:56:31.684-04:00  INFO 30420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 25 ms. Found 2 JPA repository interfaces.
+2024-03-14T01:56:32.205-04:00  INFO 30420 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-14T01:56:32.294-04:00  INFO 30420 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-03-14T01:56:32.336-04:00  INFO 30420 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-03-14T01:56:32.613-04:00  INFO 30420 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-03-14T01:56:32.645-04:00  INFO 30420 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-03-14T01:56:33.003-04:00  INFO 30420 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40b31a16
+2024-03-14T01:56:33.006-04:00  INFO 30420 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-03-14T01:56:33.791-04:00  INFO 30420 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-14T01:56:33.841-04:00  INFO 30420 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-03-14T01:56:34.464-04:00  WARN 30420 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-14T01:56:35.429-04:00  INFO 30420 --- [main] c.e.c.CapstonebackendApplicationTests    : Started CapstonebackendApplicationTests in 4.707 seconds (process running for 5.611)
+2024-03-14T01:56:36.392-04:00  INFO 30420 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-03-14T01:56:36.398-04:00  INFO 30420 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-03-14T01:56:36.411-04:00  INFO 30420 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-03-14T02:03:34.407-04:00  INFO 15528 --- [main] c.e.c.CapstonebackendApplicationTests    : Starting CapstonebackendApplicationTests using Java 17.0.9 with PID 15528 (started by Ali in E:\d424-software-engineering-capstone\backend\capstonebackend)
+2024-03-14T02:03:34.408-04:00  INFO 15528 --- [main] c.e.c.CapstonebackendApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-03-14T02:03:34.842-04:00  INFO 15528 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2024-03-14T02:03:34.843-04:00  INFO 15528 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JDBC repositories in DEFAULT mode.
+2024-03-14T02:03:34.872-04:00  INFO 15528 --- [main] .RepositoryConfigurationExtensionSupport : Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.example.capstonebackend.repository.CarRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2024-03-14T02:03:34.874-04:00  INFO 15528 --- [main] .RepositoryConfigurationExtensionSupport : Spring Data JDBC - Could not safely identify store assignment for repository candidate interface com.example.capstonebackend.repository.DealershipRepository; If you want this repository to be a JDBC repository, consider annotating your entities with one of these annotations: org.springframework.data.relational.core.mapping.Table.
+2024-03-14T02:03:34.875-04:00  INFO 15528 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 27 ms. Found 0 JDBC repository interfaces.
+2024-03-14T02:03:34.885-04:00  INFO 15528 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2024-03-14T02:03:34.885-04:00  INFO 15528 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-03-14T02:03:34.908-04:00  INFO 15528 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 19 ms. Found 2 JPA repository interfaces.
+2024-03-14T02:03:35.289-04:00  INFO 15528 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-03-14T02:03:35.374-04:00  INFO 15528 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-03-14T02:03:35.401-04:00  INFO 15528 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2024-03-14T02:03:35.647-04:00  INFO 15528 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-03-14T02:03:35.671-04:00  INFO 15528 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-03-14T02:03:35.904-04:00  INFO 15528 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4ad1a276
+2024-03-14T02:03:35.908-04:00  INFO 15528 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-03-14T02:03:36.580-04:00  INFO 15528 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-03-14T02:03:36.628-04:00  INFO 15528 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-03-14T02:03:37.141-04:00  WARN 15528 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-03-14T02:03:37.940-04:00  INFO 15528 --- [main] c.e.c.CapstonebackendApplicationTests    : Started CapstonebackendApplicationTests in 3.707 seconds (process running for 4.346)
+2024-03-14T02:03:38.869-04:00  INFO 15528 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-03-14T02:03:38.874-04:00  INFO 15528 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-03-14T02:03:38.885-04:00  INFO 15528 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
