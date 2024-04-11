@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="076cc6c8-1864-4aff-b38c-9d5de8d2037e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/capstonebackend/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#ib_16384_0.dblwr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#innodb_redo/#ib_redo10" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#innodb_redo/#ib_redo10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#innodb_temp/temp_1.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#innodb_temp/temp_10.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#innodb_temp/temp_2.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#innodb_temp/temp_3.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#innodb_temp/temp_4.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#innodb_temp/temp_5.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#innodb_temp/temp_6.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#innodb_temp/temp_7.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#innodb_temp/temp_8.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/#innodb_temp/temp_9.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/binlog.000006" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/binlog.000006" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/ibtmp1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/capstonebackend/mysql-data/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/capstonebackend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/capstonebackend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/capstonebackend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;aalabb1&quot;,
+      &quot;fullname&quot;: &quot;Ali AlAbbas&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.com/wgu-gitlab-environment/student-repos/aalabb1/d424-software-engineering-capstone.git&quot;,
+    &quot;second&quot;: &quot;bd15bdc3-b2cd-4194-9bd0-57ea7c3ba07c&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2cnHx5t3G5mIFXDqEhThATqSC9P" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.App.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;working__branch&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/d424-software-engineering-capstone/frontend/capstonefrontend/src/pages&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\IntelliJ\\IntelliJ IDEA 2023.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\d424-software-engineering-capstone\frontend\capstonefrontend\src\pages" />
+      <recent name="E:\d424-software-engineering-capstone\frontend\capstonefrontend\src\images" />
+      <recent name="E:\d424-software-engineering-capstone\frontend\capstonefrontend\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\d424-software-engineering-capstone\frontend\capstonefrontend" />
+      <recent name="E:\d424-software-engineering-capstone\frontend\capstonefrontend\src\pages" />
+      <recent name="E:\d424-software-engineering-capstone\frontend\capstonefrontend\src\components" />
+      <recent name="E:\d424-software-engineering-capstone\frontend\capstonefrontend\src\images" />
+      <recent name="E:\d424-software-engineering-capstone\frontend\capstonefrontend\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/capstonefrontend/src/App.js" working-dir="$PROJECT_DIR$/capstonefrontend/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.App.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="076cc6c8-1864-4aff-b38c-9d5de8d2037e" name="Changes" comment="" />
+      <created>1708740666191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708740666191</updated>
+      <workItem from="1708740667210" duration="2811000" />
+      <workItem from="1708750014211" duration="6203000" />
+      <workItem from="1708834585097" duration="1842000" />
+      <workItem from="1708886171201" duration="6061000" />
+      <workItem from="1709668128374" duration="769000" />
+      <workItem from="1709668939875" duration="3576000" />
+      <workItem from="1709744605461" duration="1288000" />
+      <workItem from="1709779202425" duration="342000" />
+      <workItem from="1709779896450" duration="1529000" />
+      <workItem from="1709840690780" duration="5803000" />
+      <workItem from="1709942204291" duration="2412000" />
+      <workItem from="1710043319127" duration="11207000" />
+      <workItem from="1710091063614" duration="1291000" />
+      <workItem from="1710106922485" duration="3810000" />
+      <workItem from="1710133182261" duration="5830000" />
+      <workItem from="1710175351689" duration="2237000" />
+      <workItem from="1710184830661" duration="6592000" />
+      <workItem from="1710271224651" duration="1200000" />
+      <workItem from="1710300670120" duration="4550000" />
+      <workItem from="1710354703297" duration="454000" />
+      <workItem from="1710360467020" duration="91000" />
+      <workItem from="1710396708545" duration="717000" />
+      <workItem from="1710398257571" duration="1368000" />
+      <workItem from="1710437759514" duration="602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

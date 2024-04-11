@@ -1,0 +1,31 @@
+.manage-cars {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.manage-cars h2 {
+    margin-bottom: 20px;
+}
+
+.manage-cars select,
+.manage-cars button {
+    margin-right: 10px;
+}
+
+.manage-cars table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.manage-cars th,
+.manage-cars td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.manage-cars th {
+    background-color: #f2f2f2;
+}

@@ -1,0 +1,47 @@
+.add-dealership-and-car {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.add-dealership-and-car h2 {
+    margin-bottom: 20px;
+}
+
+.add-dealership-and-car form {
+    margin-bottom: 40px;
+}
+
+.add-dealership-and-car div {
+    margin-bottom: 10px;
+}
+
+.add-dealership-and-car label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.add-dealership-and-car input[type='text'],
+.add-dealership-and-car input[type='number'],
+.add-dealership-and-car select {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.add-dealership-and-car button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.add-dealership-and-car .success-message {
+    color: green;
+    margin-bottom: 10px;
+}

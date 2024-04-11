@@ -1,0 +1,64 @@
+.filter-component {
+    font-family: Arial, sans-serif;
+    width: 300px; /* Adjust the width as needed */
+    border: 1px solid #ccc;
+}
+
+.filter-section {
+    margin-bottom: 1rem;
+}
+
+.filter-section h4 {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.filter-section input[type="checkbox"] {
+    margin-right: 0.5rem;
+}
+
+.filter-section select {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.price-slider,
+.year-slider,
+.mileage-slider,
+.mpg-slider {
+    margin-bottom: 1rem;
+}
+
+.price-range,
+.year-range,
+.mileage-range,
+.mpg-range {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    color: #888;
+}
+
+.checkbox-input {
+    display: flex;
+    align-items: center;
+}
+
+.filter-component button {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.filter-component button:hover {
+    background-color: #0056b3;
+}

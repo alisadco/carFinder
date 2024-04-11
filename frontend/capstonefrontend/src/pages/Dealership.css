@@ -1,0 +1,31 @@
+/* Dealership.css */
+.dealership-list {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.dealership-list h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.dealership-item {
+    display: block;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #333;
+}
+
+.dealership-info h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.dealership-info p {
+    font-size: 14px;
+    color: #666;
+}
