@@ -1,27 +1,147 @@
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a name="readme-top"></a>
+<br />
+<div align="center">
+  <a href="https://github.com/your_username/CarFinder">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-# 
-## SOFTWARE ENGINEERING CAPSTONE
+<h3 align="center">CarFinder</h3>
 
-FOR SPECIFIC TASK INSTRUCTIONS AND REQUIREMENTS FOR THIS ASSESSMENT, PLEASE REFER TO THE COURSE PAGE.
-BASIC INSTRUCTIONS
-For this assessment, you will deploy your developed full stack software product to a web service of your choice.
+  <p align="center">
+    An EV dealership inventory and search system
+    <br />
+    <a href="https://frontend-osvxzffehq-ue.a.run.app">View Demo</a>
+    ·
+    <a href="https://github.com/your_username/CarFinder/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/your_username/CarFinder/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+CarFinder is a web application designed to help car dealerships manage their inventory and sales of electric vehicles (EVs). It provides a user-friendly interface for adding and updating dealerships, adding and selling cars, and generating reports.
+
+Here's why you should use CarFinder:
+* Efficiently manage your EV inventory and sales
+* Easily add and update dealerships and car listings
+* Generate reports on unsold cars and recent sales
+* User-friendly interface for a seamless experience
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+- [![Next][Next.js]][Next-url]
+- [![React][React.js]][React-url]
+- [![Laravel][Laravel.com]][Laravel-url]
+- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+- Java Development Kit (JDK)
+- MySQL
+- Node.js
+- npm
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username/CarFinder.git
+   2.  Set up the MySQL database
+    
+    *   Create a new database named `mydatabase`
+        
+    *   Update the database connection settings in `backend/capstonebackend/src/main/resources/application.properties`
+        
+3.  Build and run the back-end service
+
+    ```shCopy code```
+
+    `cd backend/capstonebackend ./mvnw clean install ./mvnw spring-boot:run`
+
+4.  Install front-end dependencies and run the front-end service
+
+    ```shCopy code```
+
+    `cd frontend/capstonefrontend npm install npm start`
+
+5.  Access the application at `http://localhost:3000`
 
 
-## SUPPLEMENTAL RESOURCES  
-1.	How to clone a project to IntelliJ using Git?
+<p align="right">(<a href="#readme-top">back to top</a>)</p><!-- USAGE EXAMPLES -->
 
-> Ensure that you have Git installed on your system and that IntelliJ is installed using [Toolbox](https://www.jetbrains.com/toolbox-app/). Make sure that you are using version 2022.3.2. Once this has been confirmed, click the clone button and use the 'IntelliJ IDEA (HTTPS)' button. This will open IntelliJ with a prompt to clone the proejct. Save it in a safe location for the directory and press clone. IntelliJ will prompt you for your credentials. Enter in your WGU Credentials and the project will be cloned onto your local machine.  
+**Usage**
+---------
 
-2. How to create a branch and start Development?
+Follow the user guide provided in the project documentation for detailed instructions on using the application, including adding dealerships, adding cars, managing inventory, and generating reports.
 
-- GitLab method
-> Press the '+' button located near your branch name. In the dropdown list, press the 'New branch' button. This will allow you to create a name for your branch. Once the branch has been named, you can select 'Create Branch' to push the branch to your repository.
+_For more examples, please refer to the Documentation_
 
-- IntelliJ method
-> In IntelliJ, Go to the 'Git' button on the top toolbar. Select the new branch option and create a name for the branch. Make sure checkout branch is selected and press create. You can now add a commit message and push the new branch to the local repo.
+<p align="right">(<a href="#readme-top">back to top</a>)</p><!-- CONTACT -->
 
-## SUPPORT
-If you need additional support, please navigate to the course page and reach out to your course instructor.
+**Contact**
+-----------
 
-## FUTURE USE
-Take this opportunity to create or add to a simple resume portfolio to highlight and showcase your work for future use in career search, experience, and education!
+Your Name - @your\_twitter - email@example.com
+
+Project Link: https://github.com/your\_username/CarFinder
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p><!-- ACKNOWLEDGMENTS -->
+
+**Acknowledgments**
+-------------------
+
+*   Choose an Open Source License
+
+*   GitHub Emoji Cheat Sheet
+
+*   Malven's Flexbox Cheatsheet
+
+*   Malven's Grid Cheatsheet
+
+*   Img Shields
+
+*   GitHub Pages
+
+*   Font Awesome
+
+*   React Icons
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p><!-- MARKDOWN LINKS & IMAGES -->
