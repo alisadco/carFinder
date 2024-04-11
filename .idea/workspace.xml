@@ -4,49 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4cb061f-2ef4-4266-963f-94fd798f7f6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.idea/frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/capstonefrontend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a4cb061f-2ef4-4266-963f-94fd798f7f6e" name="Changes" comment="added new files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UML.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/file.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/file.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/logs/myapp.log" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/logs/myapp.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/mysql-data/auto.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/mysql-data/auto.cnf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/mysql-data/mysql/general_log.CSV" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/CapstonebackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/CapstonebackendApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/controller/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/controller/CarController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/controller/DealershipController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/controller/DealershipController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/exception/CarNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/exception/CarNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/exception/DealershipNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/exception/DealershipNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/exception/DealershipServiceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/exception/DealershipServiceException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/model/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/model/CarFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/model/CarFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/model/CarSpecifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/model/CarSpecifications.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/model/Dealership.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/model/Dealership.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/repository/CarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/repository/CarRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/repository/DealershipRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/repository/DealershipRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/service/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/service/CarService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/service/CarServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/service/CarServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/service/DealershipService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/service/DealershipService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/service/DealershipServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/java/com/example/capstonebackend/service/DealershipServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/test/java/com/example/capstonebackend/CapstonebackendApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/test/java/com/example/capstonebackend/CapstonebackendApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/test/java/com/example/capstonebackend/CarControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/test/java/com/example/capstonebackend/CarControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/test/java/com/example/capstonebackend/CarServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/test/java/com/example/capstonebackend/CarServiceImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/test/java/com/example/capstonebackend/DealershipControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/test/java/com/example/capstonebackend/DealershipControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/capstonebackend/src/test/java/com/example/capstonebackend/DealershipServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/capstonebackend/src/test/java/com/example/capstonebackend/DealershipServiceImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,11 +78,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712855635988</updated>
-      <workItem from="1712855638402" duration="829000" />
+      <workItem from="1712855638402" duration="1459000" />
     </task>
+    <task id="LOCAL-00001" summary="updated for local and added new README.md">
+      <option name="closed" value="true" />
+      <created>1712856683606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712856683606</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added new files">
+      <option name="closed" value="true" />
+      <created>1712856779453</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712856779453</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated for local and added new README.md" />
+    <MESSAGE value="added new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new files" />
   </component>
 </project>

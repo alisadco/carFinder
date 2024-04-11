@@ -59,10 +59,10 @@ Here's why you should use CarFinder:
 
 ### Built With
 
-- [![Next][Next.js]][Next-url]
-- [![React][React.js]][React-url]
-- [![Laravel][Laravel.com]][Laravel-url]
-- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+- React.js
+- SpringBoot
+- Docker
+- MySql
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +82,8 @@ To get a local copy up and running, follow these steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username/CarFinder.git
+   git clone
+   
    2.  Set up the MySQL database
     
     *   Create a new database named `mydatabase`
@@ -91,15 +92,19 @@ To get a local copy up and running, follow these steps.
         
 3.  Build and run the back-end service
 
-    ```shCopy code```
 
-    `cd backend/capstonebackend ./mvnw clean install ./mvnw spring-boot:run`
+
+    cd backend/capstonebackend 
+    ./mvnw clean install 
+    ./mvnw spring-boot:run
 
 4.  Install front-end dependencies and run the front-end service
 
-    ```shCopy code```
 
-    `cd frontend/capstonefrontend npm install npm start`
+
+    cd frontend/capstonefrontend 
+    npm install 
+    npm start
 
 5.  Access the application at `http://localhost:3000`
 
@@ -109,39 +114,62 @@ To get a local copy up and running, follow these steps.
 **Usage**
 ---------
 
-Follow the user guide provided in the project documentation for detailed instructions on using the application, including adding dealerships, adding cars, managing inventory, and generating reports.
+<details>
+<summary>All Functionality</summary>
 
-_For more examples, please refer to the Documentation_
+<h3>Adding a Dealership</h3>
+<ol>
+ <li>Access the Dealership Module: After logging into the application, navigate to <code>http://localhost:3000/add</code> or click on "Add" in the nav bar.</li>
+ <li>Initiate Adding a Dealership: Look for a button or link labeled "Add Dealership".</li>
+ <li>Enter Dealership Details: In the provided form, enter all the necessary details about the dealership, such as:
+   <ul>
+     <li>Dealership Name</li>
+     <li>Address</li>
+   </ul>
+ </li>
+ <li>Submit: After filling in all required fields, click the "Add Dealership" button to create the new dealership entry.</li>
+</ol>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p><!-- CONTACT -->
+<h3>Adding a Car</h3>
+<ol>
+ <li>Access the Car Module: After logging into the application, navigate to <code>http://localhost:3000/add</code> or click on "Add" in the nav bar.</li>
+ <li>Select the dealership.</li>
+ <li>Fill in Car Details.</li>
+ <li>Submit: After filling in all required fields, click the "Add Car" to create the new Car entry.</li>
+</ol>
+
+<h3>Managing Dealerships and Cars / Reports</h3>
+<ol>
+ <li>Access the Managing Module: After logging into the application, navigate to <code>http://localhost:3000/manage</code> or click on "Manage" in the nav bar.</li>
+ <li>Select the dealership you made in the previous step from the dropdown.</li>
+ <li>Here you can sell/update cars and view a report of all unsold cars and how long they have been on the lot. Also showing a list of all cars sold from the past week.</li>
+</ol>
+
+<h3>Searching for Cars</h3>
+<ol>
+ <li>Access the Dealership Module: After logging into the application, navigate to <code>http://localhost:3000/dealerships</code> or click on "dealerships" in the nav bar.</li>
+ <li>Click on the dealership that you made and added a car to in the previous steps.</li>
+ <li>Change the parameters on the side filter to show the car you have.</li>
+</ol>
+
+<h3>View Details and Pricing Info</h3>
+<ol>
+ <li>Access the search Module and click on "View Details" on the desired car.</li>
+ <li>Observe the extra information for that car.</li>
+ <li>Observe the Pricing Summary.</li>
+ <li>Clicking on "Click to See Monthly Price" to open a finance calculator to show the estimated monthly cost of a car loan.</li>
+</ol>
+
+</details>
 
 **Contact**
 -----------
 
-Your Name - @your\_twitter - email@example.com
+Ali Al-Abbas - @alisadco99@gmail.com
 
-Project Link: https://github.com/your\_username/CarFinder
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p><!-- ACKNOWLEDGMENTS -->
 
-**Acknowledgments**
--------------------
-
-*   Choose an Open Source License
-
-*   GitHub Emoji Cheat Sheet
-
-*   Malven's Flexbox Cheatsheet
-
-*   Malven's Grid Cheatsheet
-
-*   Img Shields
-
-*   GitHub Pages
-
-*   Font Awesome
-
-*   React Icons
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p><!-- MARKDOWN LINKS & IMAGES -->
