@@ -94,7 +94,7 @@ To get a local copy up and running, follow these steps.
    ```
     `cd backend/capstonebackend 
     ./mvnw clean install 
-    ./mvnw spring-boot:ru`
+    ./mvnw spring-boot:run`
    ```
 
 4.  Install front-end dependencies and run the front-end service
