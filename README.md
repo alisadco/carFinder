@@ -81,7 +81,7 @@ To get a local copy up and running, follow these steps.
 ### Installation
 
 1. Clone the repo
-   ```sh
+```
    git clone
    
    2.  Set up the MySQL database
@@ -89,22 +89,20 @@ To get a local copy up and running, follow these steps.
     *   Create a new database named `mydatabase`
         
     *   Update the database connection settings in `backend/capstonebackend/src/main/resources/application.properties`
-        
+```   
 3.  Build and run the back-end service
-
-
-
+   ```
     `cd backend/capstonebackend 
     ./mvnw clean install 
     ./mvnw spring-boot:ru`
+   ```
 
 4.  Install front-end dependencies and run the front-end service
-
-
-
-    `cd frontend/capstonefrontend 
+    ```
+    cd frontend/capstonefrontend 
     npm install 
-    npm start`
+    npm start
+    ```
 
 5.  Access the application at `http://localhost:3000`
 
