@@ -94,17 +94,17 @@ To get a local copy up and running, follow these steps.
 
 
 
-    cd backend/capstonebackend 
+    `cd backend/capstonebackend 
     ./mvnw clean install 
-    ./mvnw spring-boot:run
+    ./mvnw spring-boot:ru`
 
 4.  Install front-end dependencies and run the front-end service
 
 
 
-    cd frontend/capstonefrontend 
+    `cd frontend/capstonefrontend 
     npm install 
-    npm start
+    npm start`
 
 5.  Access the application at `http://localhost:3000`
 
